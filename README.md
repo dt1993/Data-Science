@@ -13,6 +13,8 @@ Concepts:
 - Context Managers and Name Scoping
 - Error Handling
 
+##Projects
+
 - [Boston_Housing](https://github.com/dt1993/Machine-Learning/tree/master/Boston_Housing): Model to predict the value of houses in the Boston real estate market. Identify the best price to sell a house utilizing machine learning.
   
 - [Gradient_Descent](https://github.com/dt1993/Machine-Learning/tree/master/Gradient_Descent):
