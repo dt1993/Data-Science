@@ -32,6 +32,6 @@ Concepts:
   
 - [Gradient_Descent](https://github.com/dt1993/Machine-Learning/tree/master/Gradient_Descent): Optimisation and the Gradient Descent Algorithm
   
-- [LSD-Math_Study](https://github.com/dt1993/Machine-Learning/tree/master/LSD-Math_Study):
+- [LSD-Math_Study](https://github.com/dt1993/Machine-Learning/tree/master/LSD-Math_Study): Evaluate whether the use of a psychedelic substance with supportive setting can lead to improvement of performance in solving professional problems.
   
 - [Movie_Box_Office_Revenue](https://github.com/dt1993/Machine-Learning/tree/master/Movie_Box_Office_Revenue): Predict Movie Box Office Revenue with Linear Regression
