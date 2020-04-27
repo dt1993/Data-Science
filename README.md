@@ -3,6 +3,16 @@
 Repository containing portfolio of machine learning projects using Python in Jupyter Notebook.
 
 Tools: Python, Tensorflow, Pandas, Numpy, Scikit Learn, Keras, Matplotlib, Seaborn, SciPy, SymPy.
+- Data Cleaning and Pre-Processing
+- Data Exploration and Visualisation
+- Linear Regression
+- Multivariable Regression
+- Optimisation Algorithms and Gradient Descent
+- Naive Bayes Classification
+- Descriptive Statistics and Probability Theory
+- Neural Networks and Deep Learning
+- Model Evaluation and Analysis
+- Serving a Tensorflow Model
 
 Concepts: 
 - Data Types and Variables
