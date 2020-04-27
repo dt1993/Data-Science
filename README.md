@@ -1,6 +1,9 @@
 # Machine-Learning
-Repository containing portfolio of machine learning projects using Python in Jupyter Notebook.  
-Tools: Python, Tensorflow, Pandas, Numpy, Scikit Learn, Keras, Matplotlib, Seaborn, SciPy, SymPy.  
+
+Repository containing portfolio of machine learning projects using Python in Jupyter Notebook.
+
+Tools: Python, Tensorflow, Pandas, Numpy, Scikit Learn, Keras, Matplotlib, Seaborn, SciPy, SymPy.
+
 Concepts: 
 - Data Types and Variables
 - String Manipulation
