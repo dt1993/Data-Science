@@ -1,4 +1,4 @@
-# Machine-Learning
+# Data Science
 
 Repository containing portfolio of data science projects.
 
