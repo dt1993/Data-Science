@@ -36,7 +36,7 @@ Concepts:
   
 - [Gradient_Descent](https://github.com/dt1993/Data-Science/blob/master/Gradient_Descent/03%20Gradient%20Descent.ipynb): Optimisation and the Gradient Descent Algorithm
   
-- [LSD-Math_Study](https://github.com/dt1993/Machine-Learning/tree/master/LSD-Math_Study): Evaluate whether the use of a psychedelic substance with supportive setting can lead to improvement of performance in solving professional problems.
+- [LSD-Math_Study](https://github.com/dt1993/Data-Science/blob/master/LSD-Math_Study/02%20Python%20Intro.ipynb): Evaluate whether the use of a psychedelic substance with supportive setting can lead to improvement of performance in solving professional problems.
   
 - [Movie_Box_Office_Revenue](https://github.com/dt1993/Machine-Learning/tree/master/Movie_Box_Office_Revenue): Predict Movie Box Office Revenue with Linear Regression
 
