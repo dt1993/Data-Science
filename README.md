@@ -67,12 +67,5 @@ Concepts:
 - [Diamond_Analysis](https://rpubs.com/dt1993/611281): Analysis of mispriced diamonds.
 
 - [Financial_Statement_Analysis](https://rpubs.com/dt1993/611283): Assess financial statement for orginzation.
-  - Profit for each month
-  - Pofit after tax for each month
-  - Profit margin for each month
-  - Good months
-  - Bad months
-  - Best month
-  - Worst month
 
 - [Basketball_Analysis](https://rpubs.com/dt1993/611437): Analysis of basketball's top scorers
