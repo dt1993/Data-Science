@@ -32,7 +32,7 @@ Concepts:
 
 ### Projects
 
-- [Boston_Housing](https://github.com/dt1993/Machine-Learning/tree/master/Boston_Housing): Model to predict the value of houses in the Boston real estate market. Identify the best price to sell a house utilizing machine learning.
+- [Boston_Housing](https://github.com/dt1993/Data-Science/blob/master/Boston_Housing/04%20Multivariable%20Regression.ipynb): Model to predict the value of houses in the Boston real estate market. Identify the best price to sell a house utilizing machine learning.
   
 - [Gradient_Descent](https://github.com/dt1993/Machine-Learning/tree/master/Gradient_Descent): Optimisation and the Gradient Descent Algorithm
   
