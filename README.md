@@ -38,7 +38,7 @@ Concepts:
   
 - [LSD-Math_Study](https://github.com/dt1993/Data-Science/blob/master/LSD-Math_Study/02%20Python%20Intro.ipynb): Evaluate whether the use of a psychedelic substance with supportive setting can lead to improvement of performance in solving professional problems.
   
-- [Movie_Box_Office_Revenue](https://github.com/dt1993/Machine-Learning/tree/master/Movie_Box_Office_Revenue): Predict Movie Box Office Revenue with Linear Regression
+- [Movie_Box_Office_Revenue](https://github.com/dt1993/Data-Science/blob/master/Movie_Box_Office_Revenue/Linear%20Regression.ipynb): Predict Movie Box Office Revenue with Linear Regression
 
 
 ## R
