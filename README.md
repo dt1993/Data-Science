@@ -42,3 +42,5 @@ Concepts:
 
 
 ## R
+
+- [Diamond Analysis](https://rpubs.com/dt1993/611216)
