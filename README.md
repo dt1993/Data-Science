@@ -45,4 +45,4 @@ Concepts:
 
 - [Diamond Analysis](https://rpubs.com/dt1993/611216)
 
-- [Financial Statement Analysis](https://rpubs.com/dt1993/611225)
+- [Financial Statement Analysis](https://rpubs.com/dt1993/611226)
