@@ -43,6 +43,28 @@ Concepts:
 
 ## R
 
+Concepts:
+- Normal distribution
+- Financial data
+- Vectors
+- Locate missing data in dataframes
+- Integer, double, logical, character and other types 
+- Matrices
+- Factual Analysis method to replace missing records
+- Median imputation method
+- Recreate an apply statement with a for() loop
+- Use lapply() and sapply() when working with lists and vectors
+- Nest apply(), lapply() and sapply() functions within each other
+- Create, use, append, modify, rename, access and subset Lists 
+- Work with the gsub() and sub() functions for replacing strings
+- Apply the Median Imputation method to replace missing records
+- Apply the Factual Analysis method to replace missing records
+- Deal with date-times
+- Create a timeseries plot
+
+
+### Projects
+
 - [Diamond_Analysis](https://rpubs.com/dt1993/611229)
 
 - [Financial_Statement_Analysis](https://rpubs.com/dt1993/611226)
