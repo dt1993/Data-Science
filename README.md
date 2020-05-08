@@ -64,9 +64,9 @@ Concepts:
 
 ### Projects
 
-- [Diamond_Analysis](https://rpubs.com/dt1993/611229): Analysis of mispriced diamonds.
+- [Diamond_Analysis](https://rpubs.com/dt1993/611281): Analysis of mispriced diamonds.
 
-- [Financial_Statement_Analysis](https://rpubs.com/dt1993/611226): Assess financial statement for orginzation.
+- [Financial_Statement_Analysis](https://rpubs.com/dt1993/611283): Assess financial statement for orginzation.
   - Profit for each month
   - Pofit after tax for each month
   - Profit margin for each month
