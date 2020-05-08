@@ -45,7 +45,6 @@ Concepts:
 
 Concepts:
 - Normal distribution
-- Financial data
 - Vectors
 - Locate missing data in dataframes
 - Integer, double, logical, character and other types 
