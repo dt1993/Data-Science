@@ -34,7 +34,7 @@ Concepts:
 
 - [Boston_Housing](https://github.com/dt1993/Data-Science/blob/master/Boston_Housing/04%20Multivariable%20Regression.ipynb): Model to predict the value of houses in the Boston real estate market. Identify the best price to sell a house utilizing machine learning.
   
-- [Gradient_Descent](https://github.com/dt1993/Machine-Learning/tree/master/Gradient_Descent): Optimisation and the Gradient Descent Algorithm
+- [Gradient_Descent](https://github.com/dt1993/Data-Science/blob/master/Gradient_Descent/03%20Gradient%20Descent.ipynb: Optimisation and the Gradient Descent Algorithm
   
 - [LSD-Math_Study](https://github.com/dt1993/Machine-Learning/tree/master/LSD-Math_Study): Evaluate whether the use of a psychedelic substance with supportive setting can lead to improvement of performance in solving professional problems.
   
