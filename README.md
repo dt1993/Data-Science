@@ -43,6 +43,6 @@ Concepts:
 
 ## R
 
-- [Diamond Analysis](https://rpubs.com/dt1993/611216)
+- [Diamond Analysis](https://rpubs.com/dt1993/611229)
 
 - [Financial Statement Analysis](https://rpubs.com/dt1993/611226)
