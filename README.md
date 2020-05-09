@@ -70,4 +70,4 @@ Concepts:
 
 - [Basketball_Analysis](https://rpubs.com/dt1993/611437): Analysis of basketball's top scorers
 
-- [Basketball_Free_Throw_Analysis](https://rpubs.com/dt1993/611475): Analysis of basketball players free throws
+- [Basketball_Free_Throw_Analysis](https://rpubs.com/dt1993/611484): Analysis of basketball players free throws
