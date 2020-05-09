@@ -69,3 +69,5 @@ Concepts:
 - [Financial_Statement_Analysis](https://rpubs.com/dt1993/611283): Assess financial statement for orginzation.
 
 - [Basketball_Analysis](https://rpubs.com/dt1993/611437): Analysis of basketball's top scorers
+
+-[Basketball_Free_Throw_Analysis(https://rpubs.com/dt1993/611475): Analysis of basketball players free throws
