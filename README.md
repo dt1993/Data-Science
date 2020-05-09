@@ -74,4 +74,4 @@ Concepts:
 
 - [Demographic_Analysis](https://rpubs.com/dt1993/611772): Analysis of world birth rate, internet usage, and income groups.
 
-- [Birthrate_vs_Internet_Users](https://rpubs.com/dt1993/611790): Analysis of birthrate compared to internet usage.
+- [Birthrate_vs_Internet_Users](https://rpubs.com/dt1993/611790): Analysis of birthrate compared to internet usage by region.
