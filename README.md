@@ -75,3 +75,13 @@ Concepts:
 - [Demographic_Analysis](https://rpubs.com/dt1993/611772): Analysis of world birth rate, internet usage, and income groups.
 
 - [Birth_Rate_vs_Internet_Users](https://rpubs.com/dt1993/611800): Analysis of birth rate compared to internet usage by region.
+
+- [Life_Expectancy_vs_Fertility](https://rpubs.com/dt1993/611850): Analysis of life expectancy vs fertility by region.
+
+
+
+
+
+
+
+
